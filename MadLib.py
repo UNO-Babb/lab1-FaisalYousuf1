@@ -1,7 +1,7 @@
 #MadLib.py
-#Name:    
-#Date:
-#Assignment:
+#Name:Faisal Yousuf    
+#Date:8/28/2024
+#Assignment:Lab 1
 
 def main():
   print("Madlib")
